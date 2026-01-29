@@ -239,7 +239,7 @@
           },
           "variable": {
             "color": "#ffffff",//use crate names, hash, now, prefix, serialized, memory, config. data, file etc.
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "variable.parameter": {
@@ -727,7 +727,7 @@
         },
         "variable": {
           "color": "#ffffff",//use crate names, hash, now, prefix, serialized, memory, config. data, file etc.
-          "font_style": null,
+          "font_style": "italic",
           "font_weight": null
         },
         "variable.parameter": {
