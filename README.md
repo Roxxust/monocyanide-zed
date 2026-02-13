@@ -5,7 +5,7 @@ place in <code>C:\Users\\%USERNAME%\AppData\Roaming\Zed\themes</code>
 <br/>
 dark theme:
 <br/>
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/17e5002f-a3e5-4561-9d4c-068bde56f205" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/5317a82a-a476-40eb-a860-0eb86533336f" />
 <br/>
 light theme:
 <br/>
