@@ -5,11 +5,11 @@ place in <code>C:\Users\\%USERNAME%\AppData\Roaming\Zed\themes</code>
 <br/>
 dark theme:
 <br/>
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/addafd9a-5450-497a-aeee-65e1b7fa4858" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/17e5002f-a3e5-4561-9d4c-068bde56f205" />
 <br/>
 light theme:
 <br/>
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/ca250bdb-b44c-457b-bf7b-ef2f8c073e66" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e6c3d63-ff34-4ccc-8fc2-e701f8dbfdf1" />
 <br/>
 <br/>
 <br/>
