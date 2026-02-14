@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Monocyanide Collection",
+  "name": "Monocyanide",
   "author": "github.com/roxxust",
   "repository": "github.com/roxxust/monocyanide-zed",
   "version": "1.0.0",
@@ -1753,3 +1753,4 @@
     }
   ]
 }
+
