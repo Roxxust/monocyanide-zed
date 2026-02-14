@@ -1,0 +1,7 @@
+id = "monocyanide"
+name = "Monocyanide"
+description = "monocyanide dark/light theme with blurred/transparent variants, inspired by the sublime text 3.2.2 skin: <https://github.com/centril/sublime-monocyanide-colorscheme>"
+version = "1.0.0"
+schema_version = 1
+authors = ["https://github.com/Roxxust"]
+repository = "https://github.com/Roxxust/monocyanide-zed"
