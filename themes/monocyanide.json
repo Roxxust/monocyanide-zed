@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Monocyanide",
+  "name": "Monocyanide Collection",
   "author": "github.com/roxxust",
   "repository": "github.com/roxxust/monocyanide-zed",
   "version": "1.0.0",
@@ -258,7 +258,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -269,9 +269,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -549,7 +549,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -560,9 +560,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -840,7 +840,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -851,9 +851,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -1131,7 +1131,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -1142,9 +1142,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -1422,7 +1422,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -1433,9 +1433,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -1713,7 +1713,7 @@
           "punctuation.delimiter": {"color": "#fd971f", "font_style": null, "font_weight": null},
           "punctuation.special": {"color": "#ffffff", "font_style": null, "font_weight": null},
           "punctuation.bracket": {"color": "#aee837", "font_style": null, "font_weight": 700},
-          "punctuation.listmarker": {"color": "#1605fe", "font_style": null, "font_weight": 700},
+          "punctuation.listmarker": {"color": "#ff4083", "font_style": null, "font_weight": 700},
           "punctuation.markup": {"color": "#aee837", "font_style": null, "font_weight": 700},
 
           "text": {"color": "#66d9ef", "font_style": null, "font_weight": null},
@@ -1724,9 +1724,9 @@
 
           "enum": {"color": "#aee837", "font_style": null, "font_weight": null},
           "constructor": {"color": "#fd971f", "font_style": null, "font_weight": 700},
-          "preproc": {"color": "#1605fe", "font_style": null, "font_weight": 500},
-          "variant": {"color": "#1605fe", "font_style": null, "font_weight": null},
-          "title": {"color": "#1605fe", "font_style": null, "font_weight": null},
+          "preproc": {"color": "#fd971f", "font_style": null, "font_weight": 500},
+          "variant": {"color": "#967EFB", "font_style": null, "font_weight": null},
+          "title": {"color": "#66d9ef", "font_style": null, "font_weight": null},
 
           "tag": {"color": "#ff4083", "font_style": null, "font_weight": null},
           "jsx.text": {"color": "#be84ff", "font_style": null, "font_weight": null},
@@ -1753,4 +1753,3 @@
     }
   ]
 }
-
