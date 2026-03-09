@@ -69,7 +69,7 @@
         "pane.focused_border": "#444444",
         "pane_group.border": "#333333",
 
-        "scrollbar_thumb.background": "#444444",
+        "scrollbar_thumb.background": "#44444499",
         "scrollbar.thumb.hover_background": "#fd971f",
         "scrollbar.thumb.active_background": "#fd971f",
         "scrollbar.thumb.border": null,
@@ -1753,4 +1753,5 @@
     }
   ]
 }
+
 
