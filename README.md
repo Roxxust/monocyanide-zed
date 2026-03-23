@@ -37,18 +37,7 @@ place in <code>C:\Users\\%USERNAME%\AppData\Roaming\Zed\themes</code>
 
 ---
 
-### Theme Variants
-
-| Theme | Appearance | Background | `background.appearance` | Preview |
-|-------|------------|------------|------------------------|---------|
-| **Dark** | `dark` | `#000000` | `opaque` | <img src="https://placehold.co/40x20/000000/ffffff.png" width="40" height="20" /> |
-| **Light** | `light` | `#5f5f5f` | `opaque` | <img src="https://placehold.co/40x20/5f5f5f/ffffff.png" width="40" height="20" /> |
-| **Dark Glass** | `dark` | `#0808084d` | `transparent` | <img src="https://placehold.co/40x20/0808084d/ffffff.png" width="40" height="20" /> |
-| **Dark Blurred** | `dark` | `#00000000` | `blurred` | <img src="https://placehold.co/40x20/00000000/ffffff.png" width="40" height="20" /> |
-| **Light Glass** | `light` | `#f0f0f04d` | `transparent` | <img src="https://placehold.co/40x20/f0f0f04d/000000.png" width="40" height="20" /> |
-| **Light Blurred** | `light` | `#00000000` | `blurred` | <img src="https://placehold.co/40x20/00000000/000000.png" width="40" height="20" /> |
-
-### Variant Differences Summary
+### Theme Variance
 
 | Element | Dark/Light (Opaque) | Glass/Blurred (Transparent) |
 |---------|---------------------|----------------------------|
@@ -66,7 +55,7 @@ place in <code>C:\Users\\%USERNAME%\AppData\Roaming\Zed\themes</code>
 
 | Element | Preview | Color |
 |---------|---------|-------|
-| Active Line Number | <img src="https://placehold.co/20x20/aee837/aee837.png" width="20" height="20" /> | `#aee837` (Lime) |
+| Active Line Number/Text | <img src="https://placehold.co/20x20/aee837/aee837.png" width="20" height="20" /> | `#aee837` (Lime) |
 | Scrollbar Thumb Hover | <img src="https://placehold.co/20x20/fd971f/fd971f.png" width="20" height="20" /> | `#fd971f` (Orange) |
 | Error | <img src="https://placehold.co/20x20/ff4083/ff4083.png" width="20" height="20" /> | `#ff4083` (Pink) |
 | Warning | <img src="https://placehold.co/20x20/e6db74/e6db74.png" width="20" height="20" /> | `#e6db74` (Yellow) |
