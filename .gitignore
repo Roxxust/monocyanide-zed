@@ -1,0 +1,30 @@
+// File: .gitignore
+
+# Zed-specific development directories
+.zed/
+scratch/
+output/
+
+# Editor/IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build artifacts (if you ever add Rust code later)
+/target/
+Cargo.lock
