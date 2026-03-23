@@ -5,3 +5,6 @@ version = "1.0.0"
 schema_version = 1
 authors = ["Roxxust"]
 repository = "https://github.com/Roxxust/monocyanide-zed"
+license = "Apache-2.0"
+
+themes = ["themes/monocyanide.json"]
