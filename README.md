@@ -104,5 +104,4 @@ place in <code>C:\Users\\%USERNAME%\AppData\Roaming\Zed\themes</code>
 <br/>
 <br/>
 <br/>
-skins are mostly done but may make some tweaks, may be missing some things or have things that don't actually do anything.. the dark blue is a placeholder to make it stand out to see where it needs to be changed.  some things like git/ai mode stuff might be off scheme-wise as i've not tested them extensively. 
-<br/> comments are what i could make of them visually, any //? are ones i did not notice any direct change or did not find what it changed.  //self indicates the name of the field is self explanitory. 
+skins are mostly done but may make some tweaks, may be missing some things or have things that don't actually do anything/overlap functionality.. some things like git/ai mode stuff might be off scheme-wise as i've not tested them extensively.
